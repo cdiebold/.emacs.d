@@ -1,0 +1,1 @@
+("~/Developer/professional_projects/adellis_workspace/adellis/" "~/Developer/professional_projects/wise-auto-detailing/")
